@@ -1,0 +1,38 @@
+{
+	"1": {
+		"firstName": "Chris",
+		"surname": "Levendall",
+		"addressType": "Residential",
+		"streetAddress": "11 Palmyra Close",
+		"suburb": "Sunnydale",
+		"city": "Cape Town",
+		"postalCode": "7975"
+	},
+	"2": {
+		"firstName": "Samantha",
+		"surname": "Levendall",
+		"addressType": "Residential",
+		"streetAddress": "11 Palmyra Close",
+		"suburb": "Sunnydale",
+		"city": "Cape Town",
+		"postalCode": "7975"
+	},
+	"3": {
+		"firstName": "Megan",
+		"surname": "Levendall",
+		"addressType": "Residential",
+		"streetAddress": "11 Palmyra Close",
+		"suburb": "Sunnydale",
+		"city": "Cape Town",
+		"postalCode": "7975"
+	},
+	"4": {
+		"firstName": "Siobhan",
+		"surname": "Levendall",
+		"addressType": "Residential",
+		"streetAddress": "11 Palmyra Close",
+		"suburb": "Sunnydale",
+		"city": "Cape Town",
+		"postalCode": "7975"
+	}
+}
